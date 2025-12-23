@@ -1,0 +1,7 @@
+{
+  "name": "proyecto231225 - Imperial Emerald 3D Experience",
+  "description": "A high-fidelity 3D web application featuring a morphing Christmas tree with gesture-controlled dynamics, styled in Trump-inspired luxury emerald and gold.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
